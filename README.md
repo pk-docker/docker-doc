@@ -6,3 +6,4 @@
 4. [Boot2Docker](boot2docker/boot2docker.md)
 5. [Container](container/container.md)
 6. [Registry](registry/registry.md)
+7. [Dockerfile](dockerfile/dockerfile.md)
