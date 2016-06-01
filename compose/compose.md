@@ -3,3 +3,10 @@
    Run
    docker-compose build
    docker-compose up
+   
+2. Compose with env variables
+
+   web:
+     build: .
+     ports:
+       - "${EXTERNAL_PORT}:5000"   
